@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ClientError	../run_newwebserver.py	/^from botocore.exceptions import  ClientError$/;"	kind:namespace	line:8
+boto3	../run_newwebserver.py	/^import boto3$/;"	kind:namespace	line:4
+create_bucket	../run_newwebserver.py	/^def create_bucket(bucket_name):$/;"	kind:function	line:37
+create_instance	../run_newwebserver.py	/^def create_instance(image_id,inst_type,key):$/;"	kind:function	line:13
+del_bucket_contents	../run_newwebserver.py	/^def del_bucket_contents(bucket):$/;"	kind:function	line:45
+ec2	../run_newwebserver.py	/^ec2 = boto3.resource('ec2', region_name='eu-west-1')$/;"	kind:variable	line:10
+logging	../run_newwebserver.py	/^import logging$/;"	kind:namespace	line:5
+main	../run_newwebserver.py	/^def main():$/;"	kind:function	line:83
+paramiko	../run_newwebserver.py	/^import paramiko$/;"	kind:namespace	line:7
+pull_image	../run_newwebserver.py	/^def pull_image(url,filename):$/;"	kind:function	line:53
+push_image	../run_newwebserver.py	/^def push_image(filename,bucket):$/;"	kind:function	line:62
+requests	../run_newwebserver.py	/^import requests$/;"	kind:namespace	line:6
+run_newwebserver.py	../run_newwebserver.py	1;"	kind:file	line:1
+s3	../run_newwebserver.py	/^s3 = boto3.resource('s3')$/;"	kind:variable	line:11
+ssh_into_instance	../run_newwebserver.py	/^def ssh_into_instance(key, inst_ip,cmd):$/;"	kind:function	line:68
+sys	../run_newwebserver.py	/^import sys$/;"	kind:namespace	line:3
+time	../run_newwebserver.py	/^import time$/;"	kind:namespace	line:2
