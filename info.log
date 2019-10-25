@@ -1,0 +1,13 @@
+2019-10-25 21:00:14,459 Found credentials in shared credentials file: ~/.aws/credentials
+2019-10-25 21:00:14,589 Started Logging
+2019-10-25 21:00:15,831 Instance has been created
+2019-10-25 21:01:56,190 {'Code': 16, 'Name': 'running'}
+2019-10-25 21:01:56,190 reating Bucket:
+2019-10-25 21:02:01,651 njordan-oct19-1908 already exists
+2019-10-25 21:02:01,651 Pulling image from url
+2019-10-25 21:02:06,911 Pushing Image to bucket
+2019-10-25 21:02:12,315 Beginning ssh process
+2019-10-25 21:02:42,477 Adding metadata to index
+2019-10-25 21:02:46,648 Attempting to display image
+2019-10-25 21:02:47,079 Cloudwatch Metrics
+2019-10-25 21:02:47,537 Finished Logging
